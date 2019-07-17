@@ -1,0 +1,19 @@
+{
+    "env": {
+        "awscloudformation": {
+            "AuthRoleName": "aws-am-env-20190710075909-authRole",
+            "UnauthRoleArn": "arn:aws:iam::021675517971:role/aws-am-env-20190710075909-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::021675517971:role/aws-am-env-20190710075909-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "aws-am-env-20190710075909-deployment",
+            "UnauthRoleName": "aws-am-env-20190710075909-unauthRole",
+            "StackName": "aws-am-env-20190710075909",
+            "StackId": "arn:aws:cloudformation:us-east-1:021675517971:stack/aws-am-env-20190710075909/801aaf40-a2ba-11e9-9520-1230783fe8ac"
+        },
+        "categories": {
+            "auth": {
+                "awsam3bde373d": {}
+            }
+        }
+    }
+}

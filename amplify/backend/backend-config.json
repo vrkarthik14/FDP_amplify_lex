@@ -1,0 +1,16 @@
+{
+	"auth": {
+		"awsam3bde373d": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	},
+	"interactions": {
+		"myChatBot": {
+			"service": "Lex",
+			"providerPlugin": "awscloudformation",
+			"build": true
+		}
+	}
+}
